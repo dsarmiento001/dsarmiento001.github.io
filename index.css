@@ -1,0 +1,22 @@
+.container {
+    height: 500px;
+    overflow: scroll;
+  }
+  
+  .image-container {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .box--1 {
+    background-image: url('https://s-media-cache-ak0.pinimg.com/236x/68/f0/e3/68f0e3e1b1739b41f6632586fca8b713.jpg');
+  }
+  
+  .box--2 {
+    background-image: url('https://1.bp.blogspot.com/-G8Wg7vHkwAo/VZVEuejPaEI/AAAAAAAAAyM/5aPuYYr9FFo/s1600/rihanna%2Bbitch%2Bbetter%2Bhave%2Bmy%2Bmoney%2Bcover.jpg');
+  }
+  
+  .box--3 {
+    background-image: url('https://s-media-cache-ak0.pinimg.com/236x/57/80/79/5780798fa63fdc278b56b0406411c7e2.jpg')
+  }
